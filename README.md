@@ -24,8 +24,6 @@ Este é um site pessoal simples e responsivo criado com **HTML**, **CSS** e **Ja
 
 [site_pessoal_gravação.webm](https://github.com/user-attachments/assets/27cd8ea9-8e4b-4e05-aa43-f347d8910747)
 
-Acesse o site aqui: **[https://ivysonthauan.vercel.app/](https://ivysonthauan.vercel.app/)**
-
 ## 📄 Licença
 
 Este projeto está licenciado sob os termos da [Licença MIT](./LICENSE), com cláusula adicional de atribuição.
